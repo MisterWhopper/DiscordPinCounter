@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-BASE_PATH="/home/lshaffer/Documents/Projects/pin_counter"
+BASE_PATH="INSTALLATION PATH HERE"
 
 # first, we need to figure out if we are using the hard-coded BASE_PATH or if we are working in the current dir
 if [[ ! -s "$BASE_PATH/discord_boy.py" ]]; then
