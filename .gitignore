@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# we do NOT want to update secrets.sh, no matter who changes it
+secrets.sh
